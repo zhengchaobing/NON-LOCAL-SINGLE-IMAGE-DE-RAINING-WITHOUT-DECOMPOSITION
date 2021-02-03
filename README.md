@@ -1,6 +1,7 @@
 # NON-LOCAL SINGLE IMAGE DE-RAINING WITHOUT DECOMPOSITION
 
-
+## Abstract
+It is challenging to remove rain steaks from a single rainy image because the rain steaks are spatially varying in the rainy image. A nonlocal de-raining algorithm is proposed in this paper to remove the rain streaks from the rainy image. Unlike existing single image de-raining algorithm, the rainy image is not decomposed into different layers by the proposed algorithm. Experimental results validate the proposed algorithm. Due to its simplicity, the proposed algorithm has a potential to be used in real outdoor vision systems.
 
 ## Citation
 ```
