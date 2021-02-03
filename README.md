@@ -4,7 +4,7 @@
 
 ## Citation
 ```
-@inproceedings{acmmm20_dcsfn,
+@inproceedings{ICASSP2021_NonLocal_DeRain,
 	author    = {Chaobing Zheng, Zhengguo Li, Yuwen Li, and Shiqian Wu},
 	title     = {NON-LOCAL SINGLE IMAGE DE-RAINING WITHOUT DECOMPOSITION},
 	booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing},
